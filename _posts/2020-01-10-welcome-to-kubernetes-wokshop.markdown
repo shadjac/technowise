@@ -9,7 +9,7 @@ title:  "Welcome to Kubernetes Workshop"
    `git clone` it.
 
 ## Test your set up
- ### sample command for linux based machines
+Sample command for linux based machines
  ```sh
   $ git help
   $ docker pull busybox
